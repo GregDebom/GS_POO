@@ -1,0 +1,18 @@
+# Saída do Maven
+target/
+
+# Banco H2 local e CSVs gerados ao usar o sistema (cada máquina cria os seus)
+dados/
+exportacoes/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
